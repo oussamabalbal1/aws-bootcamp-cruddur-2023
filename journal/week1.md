@@ -18,4 +18,4 @@
 ![Screenshot (291)](https://user-images.githubusercontent.com/46396011/221440445-7148634d-8568-467e-9c79-769ea49671cf.png)
 
 ### Notifications Page
-![Screenshot (278)](https://user-images.githubusercontent.com/46396011/221440514-5d82d916-2112-4919-a7d1-0253ec0b4182.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/46396011/221440583-b170bb1f-786d-48e2-80da-c8f31f9c4f89.png)
