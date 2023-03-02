@@ -1,11 +1,10 @@
 # Week 2 — Distributed Tracing
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
 [tasklist]
 ### Tasks
-- [ ] https://github.com/octo-org/octo-repo/issues/45
-- [ ] Draft issue title
-
+- [x] Watch Week 2 Live-Stream Video
+- [ ] Watched Ashish's Week 2 - Observability Security Considerations
+- [ ] Instrument Honeycomb with OTEL
+- [ ] Instrument AWS X-Ray
+- [ ] Configure custom logger to send to CloudWatch Logs
+- [ ] Integrate Rollbar and capture and error
